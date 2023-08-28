@@ -3,10 +3,9 @@
 My name is Muammer Yiğit Çelik, i am a Software Developer / Flutter Developer.
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/muammeryigitcelik/)
-<a href="mailto:myigitcelik@yahoo.com">
-  <img align="left" alt="Email" width="26px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/yahoo/yahoo-original.svg" />
-</a>
+
     
+<br></br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
