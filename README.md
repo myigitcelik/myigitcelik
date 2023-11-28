@@ -1,6 +1,6 @@
 ### Hello and Welcome!
 
-My name is Muammer Yiğit Çelik, i am a Software Developer / Flutter Developer.
+My name is Muammer Yiğit Çelik, i am a Full Stack Developer.
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/muammeryigitcelik/)
 
