@@ -21,14 +21,11 @@ I believe in using the right tool for the job. Here is my current technical stac
 
 ---
 
-### 📊 GitHub activity & top languages
-
-These cards are generated dynamically by GitHub Readme Stats. If the images don't render for any reason, you can view my profile directly: https://github.com/muammeryigitcelik
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muammeryigitcelik&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Muammer Yiğit's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muammeryigitcelik&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Muammer Yiğit's top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muammeryigitcelik&theme=radical" alt="GitHub streak stats for Muammer Yiğit Çelik" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myigitcelik&show_icons=true&theme=radical&hide_border=true" alt="Yigit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myigitcelik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -37,6 +34,7 @@ These cards are generated dynamically by GitHub Readme Stats. If the images don'
 - **Designing:** Robust authentication flows and microservices architectures using Azure & Docker.
 - **Exploring:** Advanced data processing with Julia and high-performance querying in Postgres.
 - **Building:** Scalable, end-to-end web and mobile applications.
+
 
 <br />
 
