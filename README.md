@@ -21,11 +21,14 @@ I believe in using the right tool for the job. Here is my current technical stac
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub activity & top languages
+
+These cards are generated dynamically by GitHub Readme Stats. If the images don't render for any reason, you can view my profile directly: https://github.com/muammeryigitcelik
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muammeryigitcelik&show_icons=true&theme=radical&hide_border=true" alt="Muammer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muammeryigitcelik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muammeryigitcelik&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Muammer Yiğit's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muammeryigitcelik&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Muammer Yiğit's top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muammeryigitcelik&theme=radical" alt="GitHub streak stats for Muammer Yiğit Çelik" />
 </p>
 
 ---
